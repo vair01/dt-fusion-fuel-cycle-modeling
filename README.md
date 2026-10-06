@@ -26,7 +26,7 @@ The fuel cycle integrates both the Inner Fuel Cycle (IFC) and Outer Fuel Cycle (
 <table align="center">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="images/simplified_fuel_cycle_scheme.JPG" width="70%" alt="Simplified fuel cycle scheme" />
+      <img src="images/simplified_fuel_cycle_scheme.JPG" width="85%" alt="Simplified fuel cycle scheme" />
       <br>
       <em>Simplified fuel cycle layout of a compact tokamak fusion power plant [1].</em>
     </td>
@@ -38,7 +38,7 @@ The fuel cycle integrates both the Inner Fuel Cycle (IFC) and Outer Fuel Cycle (
 | Parameter | Symbol | Value | Units |
 | :--- | :--- | :--- | :--- |
 | **Fusion thermal power** | $P_{\text{fus}}$ | $500$ | $\text{MW}_{\text{th}}$ |
-| **Pulse duration / Dwell time** | $t_{\text{pulse}} / t_{\text{dwell}}$ | $15\text{ min} \;/\; 2\text{ min}$ | $-$ |
+| **Pulse duration / Dwell time** | $t_{\text{pulse}} / t_{\text{dwell}}$ | $15\text{ min} / 2\text{ min}$ | $-$ |
 | **Tritium Burn Efficiency** | $\text{TBE}$ | $0.01$ (1%) | $-$ |
 | **Direct Internal Recycling fraction** | $f_{\text{DIR}}$ | $0.30$ (30%) | $-$ |
 | **Non-radioactive tritium loss fraction** | $\epsilon$ | $1 \times 10^{-4}$ | $-$ |
@@ -125,7 +125,7 @@ The system reaches dynamic equilibrium after $\approx 5\cdot\tau_{\text{TES}} = 
 <table align="center">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="images/tritium_inventories.png" width="100%" alt="Tritium inventories evolution up to steady-state" />
+      <img src="images/steady_state_inventories.png" width="100%" alt="Tritium inventories evolution up to steady-state" />
       <br>
       <em> Changes over time in the tritium inventories in each component until steady-state is reached.</em>
     </td>
